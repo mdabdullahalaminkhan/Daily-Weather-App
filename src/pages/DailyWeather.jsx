@@ -11,7 +11,7 @@ function DailyWeather() {
                 <br/>
                 <Search />
                 <Weather />
-                <footer> Copyright &copy; 2024. All rights are reserved by <a href= "https://aminprofessional.com/"> Md Abdullah Al Amin Khan </a>></></></footer>
+                <footer> Copyright &copy; 2024. All rights are reserved by <a href= "https://aminprofessional.com/"> Md Abdullah Al Amin Khan </a></footer>
             </div>
         </div>
     </div>
