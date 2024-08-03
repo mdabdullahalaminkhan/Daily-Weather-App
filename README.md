@@ -20,5 +20,4 @@ The Daily Weather App is a cutting-edge weather application built with React and
 
 The Daily Weather App combines accuracy with ease of use, making it a go-to resource for anyone needing up-to-date weather information. Whether you're checking the forecast for your weekend plans or monitoring weather conditions for travel, this app has you covered.
 
-Thank you,
-Md Abdullah Al Amin Khan.
+Thank you, Md Abdullah Al Amin Khan.
